@@ -1,0 +1,27 @@
+img {
+    width: 300px;
+    height: 300px;
+    margin-top: 2px;
+    margin-bottom: 4px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+body {
+    text-align: center;
+    background-color: pink;
+}
+
+h1 {
+    color: mediumpurple;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+#me{
+    
+    width:700;
+    height:400;
+}
